@@ -1,0 +1,22 @@
+{
+  "hospitals": [
+    {
+      "id": "1",
+      "name": "Hospital A",
+      "patientCount": 100,
+      "location": "City A"
+    },
+    {  
+        "id": "2",
+      "name": "Updated Hospital Name",
+      "patientCount": 200,
+      "location": "Updated Hospital Location"
+    },
+    {
+      "id": "3",
+      "name": "third Hospital Name",
+      "patientCount": 250,
+      "location": "3rd Hospital Location"
+    }
+  ]
+}
